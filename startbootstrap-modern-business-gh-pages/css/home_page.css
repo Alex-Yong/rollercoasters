@@ -1,0 +1,49 @@
+.theme_park{
+height:100%;
+width: 100%;
+}
+
+#myCarousel{
+  height: 450px;
+
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .disney_rides{
+  height:500px;
+  width:100%;
+}
+
+.col_md_4 .col_md_6 .logo{
+  margin: 0 auto;
+}
+
+body{
+  background-image: linear-gradient(#FFA483
+, #83DEFF
+);
+}
+
+.disney_food{
+  height: 300px;
+  width: 800px;
+}
+
+.logo{
+  display: flex;
+
+}
+
+.lists{
+  /*display: flex;
+  justify-content: center;*/
+  font-size: 36;
+  margin: 10px;
+}
+
+.img-used{
+    max-height: 40px;
+    max-width: 75%;
+    overflow: visible;
+    padding-top: 10;
+    padding-bottom: 10;
+}

@@ -1,0 +1,44 @@
+.theme_park{
+height:100%;
+width: 100%;
+}
+
+#myCarousel{
+  height: 450px;
+
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .six_flags_ride{
+  height:500px;
+  width:100%;
+}
+
+body{
+  background-image: linear-gradient(#7ec778, #c178c7);
+}
+
+.six_flags_map{
+  padding: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.page_header{
+  text-align: right;
+
+}
+
+.img-used{
+    max-height: 40px;
+    max-width: 75%;
+    overflow: visible;
+    padding-top: 10;
+    padding-bottom: 10;
+}
+
+
+
+.six_flags_food{
+  height: 300px;
+  width: 800px;
+}
